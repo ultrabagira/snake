@@ -51,7 +51,7 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=snake\main.cpp
+FileName=snake.cpp
 CompileCpp=1
 Folder=
 Compile=1
